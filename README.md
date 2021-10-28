@@ -9,3 +9,8 @@
 5) datatype of date should be changed into datetime datatype.
 6) duplicate values in a row, then drop the duplicates
 7) missing values should be filled with NaN.
+
+
+#### APIS
+NASA - https://api.nasa.gov/
+CURRENCY CONVERTER https://rapidapi.com/natkapral/api/currency-converter5/
